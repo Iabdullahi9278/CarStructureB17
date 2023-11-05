@@ -6,6 +6,12 @@ public class main {
         audi.Hp="500";
         audi.Model="A90";
 
+        CarFeature1 tire=new CarFeature1();
+        tire.tyre="4";
+        tire.tyreColor="blue";
+        tire.tyreModel="Yokohoma";
+        tire.tyreWidth="18";
+
 
     }
 }
